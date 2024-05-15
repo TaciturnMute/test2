@@ -13,6 +13,8 @@ def func(a):
     print(a)
 
 
+NAME= "wenhao"
+
 PATH_OF_DATA = "data"
 
 
