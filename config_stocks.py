@@ -9,8 +9,12 @@ TEST_END_DATE = "2020-12-31"
 TRADE_START_DATE = "2021-01-01"
 TRADE_END_DATE = "2021-07-31"
 
+def func(a):
+    print(a)
+
+
 PATH_OF_DATA = "data"
-READ_DATA_FROM_LOCAL = 1  # 0 or 1
+
 
 FAANG_TICKER = ["FB", "AMZN", "AAPL", "NFLX", "GOOG"]
 
